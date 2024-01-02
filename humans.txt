@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Charl Cowley -- Data Scientist -- @x_formerly_known_as_twitter
 
 # THANKS
 
