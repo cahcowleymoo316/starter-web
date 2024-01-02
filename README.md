@@ -14,6 +14,8 @@ Sample website with plenty of files for demos
 
 Vra mooi en sê baie dankie.
 
+Please fork this repo and then issue Pull Requests for review.
+
 ## Deployment
 
 Go soldier go!
