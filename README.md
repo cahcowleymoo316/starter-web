@@ -21,3 +21,6 @@ Go soldier go!
 ## Conclusion
 
 This is such nice code.
+
+## Copyright
+Copyright 2024 Git Training
