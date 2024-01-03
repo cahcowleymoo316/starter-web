@@ -25,4 +25,4 @@ Go soldier go!
 This is such nice code.
 
 ## Copyright
-Copyright 2024 Git Training
+Copyright 2024 Git Training. All rights reserved.
